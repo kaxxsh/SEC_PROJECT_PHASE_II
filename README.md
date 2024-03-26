@@ -32,17 +32,17 @@ This project addresses baggage mishandling in airlines by implementing an Intern
 
 ## System Architecture
 
-![System Architecture Diagram](https://github.com/kaxxsh/SEC_PROJECT_PHASE_II/raw/master/src/components/output/architecture.png)
+![System Architecture Diagram](https://github.com/kaxxsh/kaxxsh-SEC_PROJECT_PHASE_II/blob/master/src/components/output/architecture.png)
 
 ## Output
 
 #### Output1 - authentication
 
-![Authentication Output](https://github.com/kaxxsh/SEC_PROJECT_PHASE_II/blob/master/src/components/output/authentication.png)
+![Authentication Output](https://github.com/kaxxsh/kaxxsh-SEC_PROJECT_PHASE_II/blob/master/src/components/output/authentication.png)
 
 #### Output2 - panel
 
-![Panel Output](https://github.com/kaxxsh/SEC_PROJECT_PHASE_II/blob/master/src/components/output/pannel.png)
+![Panel Output](https://github.com/kaxxsh/kaxxsh-SEC_PROJECT_PHASE_II/blob/master/src/components/output/pannel.png)
 
 ## Results and Impact
 
