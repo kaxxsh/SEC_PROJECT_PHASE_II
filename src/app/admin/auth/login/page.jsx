@@ -1,9 +1,11 @@
 "use client";
+import { useRouter } from "next/navigation";
 import React, { useState } from "react";
 import { toast } from "sonner";
 
 const Login = () => {
   const [credentials, setCredentials] = useState({ id: "", password: "" });
+  const router = useRouter();
 
   const handleLogin = async (e) => {
     e.preventDefault();
@@ -21,6 +23,7 @@ const Login = () => {
       toast.error(data?.message);
     } else {
       toast.success(data?.message);
+      router.push("/admin/pannel");
     }
   };
 
